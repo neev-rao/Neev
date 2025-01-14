@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @XMaster4941
+- 👋 Hi, I’m @neev-rao
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Java & R
+- 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
